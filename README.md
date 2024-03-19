@@ -30,9 +30,7 @@ Following DQN, we also apply the PPO algorithm, which is a policy gradient optim
 - Follow the instructions provided within the notebooks to train and evaluate the DQN and PPO agents.
 - Refer to the `Space Invaders Report.pdf` for a detailed analysis of the results and insights gained from the experiments.
 
-## Additional Notes
+### Additional Notes
 
 - Further experimentation and parameter tuning may be conducted to improve the performance of the agents.
 - Suggestions for future improvements or alternative algorithms are welcome.
-
-Thank you for your interest in this project! If you have any questions or feedback, feel free to reach out to the project contributors.
